@@ -1,7 +1,9 @@
-package com.taobao.jdonlineshop;
+package com.taobao.jdonlineshop.ui.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.taobao.jdonlineshop.R;
 
 public class MainActivity extends AppCompatActivity {
 
